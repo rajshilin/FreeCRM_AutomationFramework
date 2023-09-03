@@ -1,0 +1,2 @@
+# FreeCRM
+FreeCRM Automation Framework
